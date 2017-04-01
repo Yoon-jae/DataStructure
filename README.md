@@ -1,31 +1,30 @@
 # DataStructure
 Concept of some data structure
 
-1. Magic square using array
-2. Array bag
-3. Linked bag
-4. Bag performance
-5. Linked set
-6. Recursive and Structure
-7. Stack
-8. Calculator using stack
-9. Circular array queue
-10. Linked Queue
-11. Sorting
-12. Iterator
-13. BST Dictionary
-14. Priority queue
-15. Adjacency matrix
-16. Adjacency list
-17. Dijkstar algorithm
-18. Kruskal, Union & found
-19. Topological sort
-20. Topological sort using stack
-21. Topological sort using priority queue
-22. Hashtable performance
-23. AVL tree
-24. Word count performance
-25. K-way merge
-26. Huffman
+1. [Magic square using array](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_01(MagicSqaure%20using%20Array)/src)
+2. [Array bag](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_02(Array%20Bag)/src)
+3. [Linked bag](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_03(Linked%20Bag)/src)
+4. [Bag performance](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_04(Bag%20Performance)/src)
+5. [Linked set](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_05(Linked%20Set)/src)
+6. [Recursive and Structure](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_06(Recursive%20and%20Structure)/src)
+7. [Stack](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_07(Stack)/src)
+8. [Calculator using stack](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_08(Calculator%20using%20Stack)/src)
+9. [Circular array queue](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_09(Circular%20Array%20Queue)/src)
+10. [Linked Queue](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_10(Linked%20Queue)/src)
+11. [Sorting](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_11(Sorting)/src)
+12. [Iterator](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_12(Iterator)/src)
+13. [BST Dictionary](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_13(BST%20Dictionary)/src)
+14. [Priority queue](https://github.com/Yoon-jae/Data_Structure/tree/master/DS01_14(Priority%20Queue)/src)
+15. [Adjacency matrix](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_01_1(AdjacencyMatrix)/src)
+16. [Adjacency list](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_01_2(AdjacencyList)/src)
+17. [Dijkstra algorithm](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_02(Dijkstra))
+18. [Kruskal, Union & found](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_03(Kruskal%2C%20U%26F))
+19. [Topological sort using stack](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_04_01(Topological%20Sort%20using%20Stack))
+20. [Topological sort using priority queue](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_04_02(Topological%20Sort%20using%20Prirority%20Queue))
+21. [Hashtable performance](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_05(HashTable%20Performance)/src)
+22. [AVL tree](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_06(AVLTree))
+23. [Word count performance](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_07(Word%20Count%20Performance))
+24. [K-way merge](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_08(K-Way%20Merge)/src)
+25. [Huffman](https://github.com/Yoon-jae/Data_Structure/tree/master/DS02_09(Huffman))
 
 
